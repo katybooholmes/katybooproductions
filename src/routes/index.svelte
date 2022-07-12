@@ -15,7 +15,7 @@
         Writer - Producer - Content Strategist
       </h2>
     </div>
-    <div class="grid p-2 md:p-16 bg-white bg-top bg-fixed grid-cols-1 md:grid-cols-2">
+    <div class="grid p-2 md:p-16 bg-[url('katybooproductions/images/bg1.jpg')] bg-top bg-fixed grid-cols-1 md:grid-cols-2">
       <div></div>
       <div class="bg-bggold my-4 py-8 text-white text-xl px-8">
           I'd like to help tell your story.<br><br>
@@ -81,7 +81,7 @@
     </div>
     <div>
       <div class="h-full md:h-96 w-full overflow-hidden">
-        <!-- <img src="/images/bg2.jpg" alt=""> -->
+        <img src="/katybooproductions/images/bg2.jpg" alt="">
       </div>
       <div class="bg-bggold p-8 text-5xl text-bold font-serif text-white text-center">Let's talk about how I can help with your next project.
         <br>
