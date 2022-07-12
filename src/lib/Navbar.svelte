@@ -6,7 +6,7 @@
 
     const navItems = [
         { label: "Home", href: "/katybooproductions" },
-        { label: "About", href: "/katybooproductions" },
+        { label: "About", href: "/katybooproductions/about" },
         { label: "Stories", href: "/katybooproductions" },
         { label: "Katy Boo Coaching", href: "/katybooproductions" },
         { label: "Blog", href: "/katybooproductions" },
