@@ -15,7 +15,7 @@
         Writer - Producer - Content Strategist
       </h2>
     </div>
-    <div class="grid p-2 md:p-16 bg-[url('katybooproductions/images/bg1.jpg')] bg-top bg-fixed grid-cols-1 md:grid-cols-2">
+    <div class="grid p-2 md:p-16 bg-[url('/katybooproductions/images/bg1.jpg')] bg-top bg-fixed grid-cols-1 md:grid-cols-2">
       <div></div>
       <div class="bg-bggold my-4 py-8 text-white text-xl px-8">
           I'd like to help tell your story.<br><br>
