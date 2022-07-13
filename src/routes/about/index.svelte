@@ -7,13 +7,12 @@
     <Navbar />
     
     <main>
-        <div class="bg-black flex">
-            <div class="relative bg-[url('/katybooproductions/images/bg3.jpg')] bg-no-repeat opacity-75 bg-cover w-full h-96">
-                <h1 class="absolute bottom-0 inset-x-0 text-5xl text-white font-serif p-8">It starts with listening</h1>
-                <h1 class="absolute bottom-0 inset-x-0 text-5xl text-white font-serif p-8">It starts with listening</h1>
-                <div class="absolute inset-y-0 right-0 w-1/4 m-10">
-                    <img src="/katybooproductions/images/hs1.jpg" alt="" class="rounded-full max-h-72">
-                </div>
+        <div class="relative bg-black flex">
+            <div class="relative bg-[url('/katybooproductions/images/bg3.jpg')] bg-no-repeat opacity-50 blur-sm bg-cover w-full h-96">
+            </div>
+            <h1 class="absolute bottom-0 inset-x-0 text-5xl text-white font-serif p-8">It starts with listening</h1>
+            <div class="absolute inset-y-0 right-0 w-1/4 m-10">
+                <img src="/katybooproductions/images/hs1.jpg" alt="" class="rounded-full max-h-72 opacity-100">
             </div>
         </div>
         <div class="p-8 md:px-32 text-xl">
