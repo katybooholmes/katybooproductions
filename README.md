@@ -38,6 +38,9 @@ You can preview the production build with `npm run preview`.
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 
 #TODO
-- add rest of pages
-- Fix links to nonexistent pages
-- make sure all images show up
+✓ add rest of pages
+✓ Fix links to nonexistent pages
+✓ make sure all images show up
+- Add social links
+- Add remaining pages
+- Make nav-bar fold on mobile

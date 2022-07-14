@@ -8,10 +8,10 @@
         { label: "Home", href: "/" },
         { label: "About", href: "/about" },
         { label: "Stories", href: "/stories" },
-        { label: "Katy Boo Coaching", href: "/" },
-        { label: "Blog", href: "/" },
-        { label: "What People Say", href: "/" },
-        { label: "Contact", href: "/" },
+        // { label: "Katy Boo Coaching", href: "/" },
+        // { label: "Blog", href: "/" },
+        { label: "What People Say", href: "/whatpeoplesay" },
+        { label: "Contact", href: "/contact" },
     ];
 
 </script>
