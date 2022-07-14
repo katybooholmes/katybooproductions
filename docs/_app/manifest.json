@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-19fb873d.js",
+    "file": "immutable/start-3c6723fa.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -10,7 +10,8 @@
       "src/routes/__layout.svelte",
       ".svelte-kit/runtime/components/error.svelte",
       "src/routes/about/index.svelte",
-      "src/routes/index.svelte"
+      "src/routes/index.svelte",
+      "src/routes/stories/index.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
@@ -22,7 +23,7 @@
       "_index-3b356c54.js"
     ],
     "css": [
-      "immutable/assets/pages/__layout.svelte-1db2902e.css"
+      "immutable/assets/pages/__layout.svelte-993a09f5.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
@@ -35,30 +36,40 @@
     ]
   },
   "src/routes/about/index.svelte": {
-    "file": "immutable/pages/about/index.svelte-e6b078ee.js",
+    "file": "immutable/pages/about/index.svelte-8fd8ffde.js",
     "src": "src/routes/about/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-3b356c54.js",
-      "_Navbar-0c17d39b.js"
+      "_Navbar-0b2a9e9f.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "immutable/pages/index.svelte-840ab829.js",
+    "file": "immutable/pages/index.svelte-925aff95.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-3b356c54.js",
-      "_Navbar-0c17d39b.js"
+      "_Navbar-0b2a9e9f.js"
+    ]
+  },
+  "src/routes/stories/index.svelte": {
+    "file": "immutable/pages/stories/index.svelte-bdf415ab.js",
+    "src": "src/routes/stories/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-3b356c54.js",
+      "_Navbar-0b2a9e9f.js"
     ]
   },
   "_index-3b356c54.js": {
     "file": "immutable/chunks/index-3b356c54.js"
   },
-  "_Navbar-0c17d39b.js": {
-    "file": "immutable/chunks/Navbar-0c17d39b.js",
+  "_Navbar-0b2a9e9f.js": {
+    "file": "immutable/chunks/Navbar-0b2a9e9f.js",
     "imports": [
       "_index-3b356c54.js"
     ]
