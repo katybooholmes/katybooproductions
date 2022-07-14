@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-70f970f3.js",
+    "file": "immutable/start-613ca8f6.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -38,14 +38,14 @@
     ]
   },
   "src/routes/about/index.svelte": {
-    "file": "immutable/pages/about/index.svelte-3f2a6041.js",
+    "file": "immutable/pages/about/index.svelte-a5e370cc.js",
     "src": "src/routes/about/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-55158d40.js",
       "_Navbar-00e622c6.js",
-      "_ContactBottom-caa94840.js"
+      "_ContactBottom-3fb281bf.js"
     ]
   },
   "src/routes/contact/index.svelte": {
@@ -59,7 +59,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "immutable/pages/index.svelte-21b79d5f.js",
+    "file": "immutable/pages/index.svelte-0826199e.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -69,23 +69,24 @@
     ]
   },
   "src/routes/stories/index.svelte": {
-    "file": "immutable/pages/stories/index.svelte-8ca83a55.js",
+    "file": "immutable/pages/stories/index.svelte-948e2f52.js",
     "src": "src/routes/stories/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-55158d40.js",
+      "_ContactBottom-3fb281bf.js",
       "_Navbar-00e622c6.js"
     ]
   },
   "src/routes/whatpeoplesay/index.svelte": {
-    "file": "immutable/pages/whatpeoplesay/index.svelte-f8746f7f.js",
+    "file": "immutable/pages/whatpeoplesay/index.svelte-2d313bf0.js",
     "src": "src/routes/whatpeoplesay/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-55158d40.js",
-      "_ContactBottom-caa94840.js",
+      "_ContactBottom-3fb281bf.js",
       "_Navbar-00e622c6.js"
     ]
   },
@@ -98,8 +99,8 @@
       "_index-55158d40.js"
     ]
   },
-  "_ContactBottom-caa94840.js": {
-    "file": "immutable/chunks/ContactBottom-caa94840.js",
+  "_ContactBottom-3fb281bf.js": {
+    "file": "immutable/chunks/ContactBottom-3fb281bf.js",
     "imports": [
       "_index-55158d40.js"
     ]

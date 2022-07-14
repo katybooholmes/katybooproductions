@@ -1,5 +1,6 @@
 <script lang='ts'>
-    import Navbar from "$lib/Navbar.svelte";
+    import ContactBottom from "$lib/ContactBottom.svelte";
+import Navbar from "$lib/Navbar.svelte";
 
     const vidItems = [
         { link: "https://player.vimeo.com/video/542459034?h=b8f198bd58", title: "2019 WW Tour Charlotte" , p1: "I wrote and produced this series of videos for Oprah’s national tour in Charlotte, NC. "},
@@ -21,3 +22,4 @@
     <div class="border-t-2 w-full my-8 border-bggold"></div>  
     {/each}
 </div>
+<ContactBottom />

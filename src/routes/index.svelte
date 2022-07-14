@@ -86,7 +86,7 @@
       <div class="bg-bggold p-8 text-5xl text-bold font-serif text-white text-center">Let's talk about how I can help with your next project.
         <br>
         <br>
-        <button class="font-sans text-2xl w-full text-bggold bg-white p-4" href="/">Contact</button>
+        <a class="font-sans text-2xl w-full text-bggold bg-white p-4" href="/contact">Contact</a>
       </div>
     </div>
     
