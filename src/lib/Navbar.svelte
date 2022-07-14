@@ -16,7 +16,7 @@
 
 </script>
 
-<div class="static flex w-full md:sticky top-0 overflow-x-clip px-4 flex-col md:flex-row  bg-white justify-center align-center md:justify-start z-10">
+<div class="static flex w-full md:sticky top-0 overflow-x-clip px-4 flex-col md:flex-row bg-white justify-center align-center md:justify-start z-10">
     <nav class=" m-auto">
         <div class="flex w-full px-5 m-auto box-border items-center h-full">
             <ul class="flex flex-col md:flex-row">
