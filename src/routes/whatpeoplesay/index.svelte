@@ -11,7 +11,7 @@ import Navbar from '$lib/Navbar.svelte'
         saidBy1: "Mark Anderson",
         saidBy2: "Chief Storyteller at Creative Soul Video | 20-plus Emmy Award Winner",
         href: "https://www.linkedin.com/in/creativesoulvideo"},
-        {quote: "	If you're video project requires someone to get things done well, on time and with a smile, then you need to hire Katy Boo. I have worked with Katy on a number of occasions. She is ALWAYS prepared, a quick learner, able read people and situations and quite frankly, a lot of fun to be around.", 
+        {quote: "If you're video project requires someone to get things done well, on time and with a smile, then you need to hire Katy Boo. I have worked with Katy on a number of occasions. She is ALWAYS prepared, a quick learner, able read people and situations and quite frankly, a lot of fun to be around.", 
         saidBy1: "Rod Rassman",
         saidBy2: "Branded Video Content Creator at Rassman Media Group",
         href: "https://www.linkedin.com/in/rodrassman"},
