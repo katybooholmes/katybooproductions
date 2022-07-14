@@ -5,13 +5,13 @@
     let showMobileMenu: Boolean = false;
 
     const navItems = [
-        { label: "Home", href: "/" },
-        { label: "About", href: "/about" },
-        { label: "Stories", href: "/" },
-        { label: "Katy Boo Coaching", href: "/" },
-        { label: "Blog", href: "/" },
-        { label: "What People Say", href: "/" },
-        { label: "Contact", href: "/" },
+        { label: "Home", href: "/katybooproductions" },
+        { label: "About", href: "/katybooproductions/about" },
+        { label: "Stories", href: "/katybooproductions" },
+        { label: "Katy Boo Coaching", href: "/katybooproductions" },
+        { label: "Blog", href: "/katybooproductions" },
+        { label: "What People Say", href: "/katybooproductions" },
+        { label: "Contact", href: "/katybooproductions" },
     ];
 
 </script>

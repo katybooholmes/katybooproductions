@@ -23,7 +23,7 @@ const config = {
 		}),
 		paths: {
 			// change below to your repo name
-			// base: dev ? "" : "/katybooproductions",
+			base: dev ? "" : "/katybooproductions",
 		},
 	}
 };
