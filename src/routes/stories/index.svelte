@@ -14,7 +14,7 @@
 <Navbar />
 
 
-<div class="grid grid-cols-1 justify-center place-content-center px-32 py-16">
+<div class="grid grid-cols-1 justify-center place-content-center px-8 md:px-32 py-16">
     {#each vidItems as item}
     <iframe class="w-full aspect-video" title="{item.title}" src="{item.link}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     <p class="text-center w-full my-8 text-xl">{item.p1}<br>{item.p2}</p> 
