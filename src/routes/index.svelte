@@ -6,12 +6,12 @@
   <Navbar />
   
   <main>
-    <div class="bg-bggray text-center py-4">
-      <hr class="py-4 mx-4 border-t-2">
+    <div class="bg-bggray text-center py-4 md:py-8">
+      <!-- <hr class="py-4 mx-4 border-t-2"> -->
       <h1 class="text-3xl md:text-6xl text-titleblue font-serif font-bold">
         Katy Boo Productions
       </h1>
-      <h2 class="text-3xl text-titleblue font-sans font-normal py-4">
+      <h2 class="text-xl md:text-3xl text-titleblue font-sans font-normal py-4">
         Writer - Producer - Content Strategist
       </h2>
     </div>

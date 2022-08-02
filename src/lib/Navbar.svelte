@@ -9,10 +9,14 @@
         { label: "About", href: "/about" },
         { label: "Stories", href: "/stories" },
         // { label: "Katy Boo Coaching", href: "/" },
-        // { label: "Blog", href: "/" },
+        { label: "Blog", href: "/blog" },
         { label: "What People Say", href: "/whatpeoplesay" },
         { label: "Contact", href: "/contact" },
     ];
+
+    const goHome = () => {
+        window.location.assign("/");
+    }
 
 </script>
 
@@ -20,6 +24,7 @@
     <nav class=" m-auto">
         <div class="flex w-full px-5 m-auto box-border items-center h-full">
             <ul class="flex flex-col md:flex-row">
+                <button on:click="{goHome}">
                 <svg
                    width="100"
                    height="100"
@@ -84,9 +89,11 @@
                        id="path1904" />
                   </g>
                 </svg>
+                </button>
+                <li class="px-4"></li>
                 {#each navItems as item}
                 <li class="bg-white text-bggold my-2 md:m-2 md:p-2 md:my-6">
-                    <a class="box-border hover:border-t-2 py-2 hover:border-b-2 " href={item.href}>{item.label}</a>
+                    <a class="box-border rounded-lg hover:border-t-2 py-2 hover:border-b-2 " href={item.href}>{item.label}</a>
                     <hr class="visible md:hidden mt-4">
                 </li>
                 {/each}

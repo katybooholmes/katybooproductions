@@ -28,7 +28,7 @@ import { select_option, time_ranges_to_array } from "svelte/internal";
     <div class="mx-8">
         <img class="rounded-xl" src="/images/hs3.jpg" alt="">
     </div>
-    <div class="my-16">
+    <div class="my-16 mx-8">
         <h1 class="text-blue-400 font-bold text-lg">Phone: </h1>
         <h2>+1 (612) 719-7782</h2>
         <br>
